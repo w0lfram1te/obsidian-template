@@ -1,0 +1,11 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "autoConvertHtml": false,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./",
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true
+}
