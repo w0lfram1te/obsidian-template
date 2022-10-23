@@ -4,5 +4,6 @@
   "alwaysUpdateLinks": true,
   "newLinkFormat": "absolute",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "_media"
+  "attachmentFolderPath": "_media",
+  "showInlineTitle": false
 }
