@@ -1,5 +1,6 @@
 {
-  "baseFontSize": 16,
-  "theme": "moonstone",
-  "cssTheme": "Minimal"
+  "accentColor": "",
+  "theme": "system",
+  "translucency": false,
+  "showViewHeader": true
 }

@@ -1,0 +1,5 @@
+{
+  "template": "_templates/basic",
+  "format": "YYYY-MM-DDTHHMMSS",
+  "folder": "_snippets"
+}

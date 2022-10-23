@@ -1,12 +1,8 @@
 {
-  "legacyEditor": false,
-  "livePreview": true,
+  "showFrontmatter": true,
   "autoConvertHtml": false,
-  "newFileLocation": "folder",
+  "alwaysUpdateLinks": true,
   "newLinkFormat": "absolute",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./",
-  "useMarkdownLinks": true,
-  "alwaysUpdateLinks": true,
-  "newFileFolderPath": "_media"
+  "attachmentFolderPath": "_media"
 }
